@@ -1,0 +1,5 @@
+Install anaconda (anaconda.com)
+    On mac : brew cask install anaconda
+conda install --file requirements.txt
+
+pip install -r requirements.txt
