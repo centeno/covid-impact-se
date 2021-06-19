@@ -1,4 +1,12 @@
-[![step01_collection_data.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/centeno/covid-impact-scrapper/blob/master/step01_collection_data.ipynb)
+[![step01_collection_data.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/centeno/covid-impact-scrapper/blob/master/step01_collection_data.ipynb) [![step02_pnl_basic_en.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/centeno/covid-impact-scrapper/blob/master/step02_pnl_basic_en.ipynb)
+## Challenge
+This is a repository about Covid-19 impacts on Software Engineering based on Grey Literature Review.
 
+## Solution
+Grey literature review is a data font very important today.
+But, there are diverse kinds of fonts (blogs, white paper, webinars ...) and data formats (text, video, audio). Then, how to collect, analyze, and reveal the gray literature value in the age of knowledge or age of big data?
 
-[![step02_pnl_basic_en.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/centeno/covid-impact-scrapper/blob/master/step02_pnl_basic_en.ipynb)
+For this challenge, we proposed an analytics mindset and an analytics pipeline that combines Data Engineering, Machine Learning, and Dataviz to data analyze and to reveal Covid-19 impacts in Software Engineering through gray literature.
+
+## Benefits
+Save of time, resources, computational enforcement, automation are some benefits of this methodology. This methodology is generalized, then you can test in other areas of the domain and create your own cases of studies.
