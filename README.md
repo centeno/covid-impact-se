@@ -1,8 +1,9 @@
 [![step01_collection_data.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/centeno/covid-impact-scrapper/blob/master/step01_collection_data.ipynb) [![step02_pnl_basic_en.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/centeno/covid-impact-scrapper/blob/master/step02_pnl_basic_en.ipynb)
 ## Challenge
-This is a repository about Covid-19 impacts on Software Engineering based on Grey Literature Review.
+This is a repository about Covid-19 impacts on Software Engineering based on Multivocal Literature Review - MLR (White and Grey Literature Review).
 
 ## Solution
+White literature is a academic peer review paper.
 Grey literature review is a data font very important today.
 But, there are diverse kinds of fonts (blogs, white paper, webinars ...) and data formats (text, video, audio). Then, how to collect, analyze, and reveal the gray literature value in the age of knowledge or age of big data?
 
